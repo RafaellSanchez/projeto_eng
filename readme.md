@@ -9,7 +9,6 @@ Projeto dedicado à extração, transformação e carregamento de dados.
 
 ```plaintext
 
-
 ├── repos
 │   ├── proj
 │   │   ├── extract

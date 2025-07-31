@@ -182,4 +182,4 @@ cep;logradouro;bairro;localidade;uf;ibge;gia;ddd;siafi
 07606-220;Rua Dois;Rio abaixo;Mairiporã;SP;3528502;4339;11;6671
 07634-025;Rua Peru;Lavras;Mairiporã;SP;3528502;4339;11;6671
 07631-380;Rua Seis;Rio acima;Mairiporã;SP;3528502;4339;11;6671
-07656-070;Rua Oito;Mato Dentro;Mairiporã;SP;3528502;4339;11;6671
+07656-070;Rua Oito;Mato Dentro;Mairiporã;SP;3528502;4339;11;6671 

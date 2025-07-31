@@ -18,6 +18,7 @@ data_igtao = datetime.now().strftime('%Y-%m-%d')
 datahoje = str(data_igtao)
 print(datahoje)
 
+
 caminho_backup = "repos/projeto_eng/proj/orquest/bckp/"
 ctrl_ing = "repos/projeto_eng/proj/orquest/arquivo_controle.txt"
 landing = "repos/projeto_eng/proj/orquest/landing/"
