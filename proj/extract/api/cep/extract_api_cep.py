@@ -1,5 +1,6 @@
-sys.path.append("/../../utils/")
-sys.path.append("/workspaces/projeto_ing/utils/")
+# sys.path.append("/../../utils/")
+# sys.path.append("/workspaces/projeto_ing/utils/")
+
 
 import requests
 import pandas as pd
@@ -9,14 +10,15 @@ import os
 import shutil
 import importlib
 import sys
-from helpers import mensagem
+# from helpers import mensagem
 
+sys.path.append("repos/projeto_eng/proj/shered_utils/")
 timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
 # arquivos = '/workspaces/projeto_ing/apis/app/src/cep/'
 arquivos = 'repos/projeto_eng/proj/extract/data/'
 
 time.sleep(3)
-mensagem('Iniciando aplicação!')
+# mensagem('Iniciando aplicação!')
 #Lista de logradouros
 listas = ['Estrada','Estrada Armando','Mairipora','Rua','Estrada Rio Acima','Rio Abaixo','Avenida','Rodovia']
 
@@ -72,7 +74,7 @@ for lista in listas:
     #salvar cada iteração em uma dataframe e depois salva-lo em um arquivo txt delimitado 
     df = pd.DataFrame(dados_lista)
     
-    mensagem(f'Preparando para salvar: {lista}')
+    # mensagem(f'Preparando para salvar: {lista}')
     # caminho = '/workspaces/projeto_ing/apis/app/src/cep/'
     caminho = 'repos/projeto_eng/proj/extract/data/'
     arquivo = f'dados_cep_mairipora_{lista}_{timestamp}.txt'
@@ -81,10 +83,11 @@ for lista in listas:
     print(f'Arquivo salvo: {arquivo}')
     print(f'Caminho: {caminho}')
 
+print('api finalizada!')
+# mensagem('api finalizada!')
 
-mensagem('api finalizada!')
-
-mensagem('iniciando concatenacao')
+print('iniciando concatencao')
+# mensagem('iniciando concatenacao')
 df_lista = []
 
 for f in os.listdir(arquivos):
@@ -109,7 +112,9 @@ if df_lista:
 else:
     print("Nenhum arquivo válido foi encontrado para concatenação.")
 
-mensagem('movendo arquivos para bckup')
+
+print('movendo arquivo para bckp')
+# mensagem('movendo arquivos para bckup')
 
 files = 'repos/projeto_eng/proj/extract/data/'
 dest = 'repos/projeto_eng/proj/extract/bckp/'

@@ -1,0 +1,51 @@
+cep;logradouro;bairro;localidade;uf;ibge;gia;ddd;siafi
+07629-116;Rua C;Capoavinha;Mairiporã;SP;3528502;4339;11;6671
+07610-390;Rua B;Santa Inês;Mairiporã;SP;3528502;4339;11;6671
+07668-410;Rua B;Pedra Vermelha (Terra Preta);Mairiporã;SP;3528502;4339;11;6671
+07645-300;Rua A;Marmelo;Mairiporã;SP;3528502;4339;11;6671
+07610-380;Rua A;Santa Inês;Mairiporã;SP;3528502;4339;11;6671
+07612-748;Rua A;Boa Vista;Mairiporã;SP;3528502;4339;11;6671
+07661-150;Rua K;Terra Preta (Terra Preta);Mairiporã;SP;3528502;4339;11;6671
+07622-100;Rua A;Caraguatá;Mairiporã;SP;3528502;4339;11;6671
+07629-108;Rua A;Capoavinha;Mairiporã;SP;3528502;4339;11;6671
+07656-050;Rua Um;Mato Dentro;Mairiporã;SP;3528502;4339;11;6671
+07619-092;Rua Um;Roseira;Mairiporã;SP;3528502;4339;11;6671
+07626-590;Rua Um;Luiz Fagundes;Mairiporã;SP;3528502;4339;11;6671
+07606-492;Rua Um;Rancho Grande;Mairiporã;SP;3528502;4339;11;6671
+07606-215;Rua Um;Rio abaixo;Mairiporã;SP;3528502;4339;11;6671
+07607-505;Rua Um;São Vicente;Mairiporã;SP;3528502;4339;11;6671
+07653-620;Rua Um;Remédios;Mairiporã;SP;3528502;4339;11;6671
+07609-090;Rua Um;Vila Machado;Mairiporã;SP;3528502;4339;11;6671
+07662-745;Rua Um;Terra Preta (Terra Preta);Mairiporã;SP;3528502;4339;11;6671
+07629-020;Rua Um;Capoavinha;Mairiporã;SP;3528502;4339;11;6671
+07617-460;Rua Um;Juqueri Mirim;Mairiporã;SP;3528502;4339;11;6671
+07663-165;Rua Um;Jundiaizinho (Terra Preta);Mairiporã;SP;3528502;4339;11;6671
+07668-425;Rua Um;Pedra Vermelha (Terra Preta);Mairiporã;SP;3528502;4339;11;6671
+07659-585;Rua Um;Canjica (Terra Preta);Mairiporã;SP;3528502;4339;11;6671
+07607-360;Rua Dez;São Vicente;Mairiporã;SP;3528502;4339;11;6671
+07619-052;Rua Dez;Roseira;Mairiporã;SP;3528502;4339;11;6671
+07659-615;Rua Dez;Canjica (Terra Preta);Mairiporã;SP;3528502;4339;11;6671
+07607-445;Rua Hum;São Vicente;Mairiporã;SP;3528502;4339;11;6671
+07621-305;Rua Joa;Caraguatá;Mairiporã;SP;3528502;4339;11;6671
+07656-060;Rua Dez;Mato Dentro;Mairiporã;SP;3528502;4339;11;6671
+07653-630;Rua Dois;Remédios;Mairiporã;SP;3528502;4339;11;6671
+07668-430;Rua Dois;Pedra Vermelha (Terra Preta);Mairiporã;SP;3528502;4339;11;6671
+07625-430;Rua Sete;Luiz Fagundes;Mairiporã;SP;3528502;4339;11;6671
+07623-145;Rua Nove;Samambaia;Mairiporã;SP;3528502;4339;11;6671
+07613-700;Rua Onix;Mantiqueira;Mairiporã;SP;3528502;4339;11;6671
+07619-056;Rua Nove;Roseira;Mairiporã;SP;3528502;4339;11;6671
+07626-320;Rua Oito;Luiz Fagundes;Mairiporã;SP;3528502;4339;11;6671
+07663-345;Rua Onze;Jundiaizinho (Terra Preta);Mairiporã;SP;3528502;4339;11;6671
+07601-180;Rua Onze;Olho D'Água;Mairiporã;SP;3528502;4339;11;6671
+07659-590;Rua Dois;Canjica (Terra Preta);Mairiporã;SP;3528502;4339;11;6671
+07659-625;Rua Onze;Canjica (Terra Preta);Mairiporã;SP;3528502;4339;11;6671
+07631-400;Rua Sete;Rio acima;Mairiporã;SP;3528502;4339;11;6671
+07656-085;Rua Onze;Mato Dentro;Mairiporã;SP;3528502;4339;11;6671
+07628-080;Rua Baia;Mata Fria;Mairiporã;SP;3528502;4339;11;6671
+07662-765;Rua Sete;Terra Preta (Terra Preta);Mairiporã;SP;3528502;4339;11;6671
+07667-650;Rua Sara;Cardoso (Terra Preta);Mairiporã;SP;3528502;4339;11;6671
+07628-400;Rua Ipê;Mata Fria;Mairiporã;SP;3528502;4339;11;6671
+07606-220;Rua Dois;Rio abaixo;Mairiporã;SP;3528502;4339;11;6671
+07634-025;Rua Peru;Lavras;Mairiporã;SP;3528502;4339;11;6671
+07631-380;Rua Seis;Rio acima;Mairiporã;SP;3528502;4339;11;6671
+07656-070;Rua Oito;Mato Dentro;Mairiporã;SP;3528502;4339;11;6671

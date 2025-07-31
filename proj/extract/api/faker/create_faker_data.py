@@ -9,6 +9,7 @@ fake = Faker('pt_BR')
 dados = []
 
 
+
 for _ in range(100):
     fake_name = fake.name()
     fake_cpf = fake.cpf()
