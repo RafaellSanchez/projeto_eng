@@ -8,7 +8,8 @@ from datetime import datetime
 import time
 
 # sys.path.append(os.path.abspath('/workspaces/projeto_ing/utils/shered_utils/'))
-sys.path.append(os.path.abspath('../../../../repos/projeto_eng/proj/shered_utils/'))
+# sys.path.append(os.path.abspath('../../../../repos/projeto_eng/proj/shered_utils/'))
+sys.path.append(os.path.abspath("repos/projeto_eng/proj/shered_utils/"))
 from sql_conn import log_ingestao
 
 
@@ -17,12 +18,12 @@ data_igtao = datetime.now().strftime('%Y-%m-%d')
 datahoje = str(data_igtao)
 print(datahoje)
 
-caminho_backup = "/workspaces/projeto_ing/ingestion/backup/backp/"
-ctrl_ing = "/workspaces/projeto_ing/ingestion/backup/archiving_ctrl/arquivo_controle.txt"
-landing = "/workspaces/projeto_ing/ingestion/app/src/landing/"
-layouts = "/workspaces/projeto_ing/ingestion/app/src/layouts/"
-files = '/workspaces/projeto_ing/apis/app/src/'
-controle = '/workspaces/projeto_ing/ingestion/backup/archiving_ctrl/arquivo_controle.txt'
+caminho_backup = "repos/projeto_eng/proj/orquest/bckp/"
+ctrl_ing = "repos/projeto_eng/proj/orquest/arquivo_controle.txt"
+landing = "repos/projeto_eng/proj/orquest/landing/"
+layouts = "repos/projeto_eng/proj/orquest/layouts/"
+files = "repos/projeto_eng/proj/extract/data"
+controle = "repos/projeto_eng/proj/orquest/arquivo_controle.txt"
 
 
 time.sleep(3)

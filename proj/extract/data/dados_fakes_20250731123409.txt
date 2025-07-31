@@ -1,0 +1,701 @@
+;nome;cpf;email;endereco;bairro;estado;estado_nome;sigla;telefone;pais;code;cartao_cred;cartao_num;credt_exp;cvv;data;data_hora;digtap_ptcao
+0;Nathan Caldeira;692.104.758-01;juliana41@example.com;"Condomínio Peixoto, 312
+Canaa
+62269-855 Cardoso / PA";Santo Agostinho;('RR', 'Roraima');Amazonas;SE;+55 01 92729 8314;Irlanda;MH;"VISA 16 digit
+Paulo Dias
+4450112799920921 06/32
+CVC: 882
+";4640405607016226;12/25;097;1991-11-07;2011-05-21 09:03:01;2025-07-31
+1;Vicente Ribeiro;280.956.713-12;bruna33@example.com;"Trevo Lopes, 81
+Sion
+90436767 Nogueira do Sul / RN";Vila Santa Monica 1ª Seção;('RR', 'Roraima');Acre;PB;+55 (04) 90895 5537;Tajiquistão;BZ;"VISA 19 digit
+Carlos Eduardo Pereira
+4265395891737962837 11/33
+CVC: 871
+";3556899725604158;10/27;3302;1982-02-14;2021-03-06 16:21:14;2025-07-31
+2;Srta. Amanda Viana;347.506.912-16;lara76@example.org;"Praia Vitória Novaes, 524
+São Damião
+03465769 Rezende da Praia / RR";Vila Nova;('SC', 'Santa Catarina');Acre;MT;+55 39 94834-5307;Vanuatu;VA;"Discover
+Maria Cecília Castro
+6513678512586512 04/31
+CVC: 658
+";4685558222091;07/26;044;1980-01-14;2000-10-06 03:14:05;2025-07-31
+3;Mariana Vieira;057.413.689-48;salescaua@example.com;"Vereda Novaes, 30
+Vila Sesc
+74898696 Barbosa / AM";Alta Tensão 1ª Seção;('AC', 'Acre');Distrito Federal;ES;+55 (88) 98978 4200;Coral Sea Islands;LB;"Mastercard
+Luigi Cunha
+2300160585756914 05/30
+CVV: 697
+";30270510012944;05/34;800;1976-09-29;1974-05-22 21:09:14;2025-07-31
+4;Dr. Marcelo Ramos;249.018.673-69;vitor70@example.org;"Vale Maria Luiza Silveira, 24
+São João Batista
+92482-648 Silveira do Sul / CE";Vila Jardim Montanhes;('AP', 'Amapá');Santa Catarina;PR;+55 (045) 99120-9151;Guiné Equatorial;VC;"JCB 15 digit
+Sophie Araújo
+180017493570127 10/31
+CVC: 162
+";3526594747202753;05/30;378;1973-01-01;1994-12-07 19:08:41;2025-07-31
+5;Dr. Luiz Felipe Ferreira;985.106.237-59;danilobarros@example.com;"Loteamento Bárbara Ramos
+Vila Paris
+81540-152 Castro Paulista / TO";Vila Da Luz;('PA', 'Pará');Santa Catarina;PR;+55 62 9 2115-0367;Ilhas Turcas e Caicos;BT;"VISA 19 digit
+Raul Cardoso
+4013904809528901432 11/32
+CVC: 259
+";6548931921393668;02/29;974;2012-06-23;1997-07-13 10:46:34;2025-07-31
+6;Juliana Alves;045.837.921-23;nataliavieira@example.net;"Campo de Gomes
+Vila Oeste
+86517051 Freitas de Gonçalves / RO";Piratininga;('ES', 'Espírito Santo');Sergipe;GO;+55 (43) 9 9787 8410;Suazilândia;LB;"JCB 15 digit
+Mariane Novaes
+180071074378822 03/26
+CVC: 385
+";4495270218699985304;12/30;024;1973-11-18;2000-12-22 10:32:50;2025-07-31
+7;Bryan Lima;210.764.859-01;cardosoanthony@example.net;"Alameda de Farias, 4
+Nova Pampulha
+85261-940 Moura do Amparo / PB";Vila Piratininga;('GO', 'Goiás');Piauí;PR;+55 42 97092 3224;Haiti;MZ;"Diners Club / Carte Blanche
+Maria Sophia Cunha
+30154948581565 10/27
+CVC: 951
+";4992757423680;07/30;328;1998-12-06;2006-09-12 11:21:31;2025-07-31
+8;Ana Luiza Costela;048.975.123-79;djesus@example.net;"Viaduto Caldeira, 2
+Maria Goretti
+47660873 da Rosa / DF";Vila Betânia;('SE', 'Sergipe');Ceará;RN;+55 48 90328 4208;São Tomé e Príncipe;CA;"JCB 15 digit
+Joaquim Freitas
+180041915241646 06/28
+CVC: 348
+";348328415282538;06/29;452;1990-11-03;1982-08-01 15:26:15;2025-07-31
+9;Marcos Vinicius Correia;890.276.534-29;ana-beatriz94@example.net;"Vila de Rocha, 256
+Jardim Atlântico
+25543788 da Rosa de Cavalcanti / PA";Maria Tereza;('MG', 'Minas Gerais');Paraíba;CE;+55 (25) 9 3179-9610;Palau;NG;"Maestro
+Eloah Cardoso
+585697238046 12/26
+CVV: 941
+";4358972126262898658;08/33;674;2008-11-25;1986-02-28 02:40:24;2025-07-31
+10;Heloísa Santos;309.862.475-29;drocha@example.org;"Favela Francisco da Mata, 73
+Nossa Senhora Do Rosário
+06482380 Barros / RJ";Vila Madre Gertrudes 4ª Seção;('RS', 'Rio Grande do Sul');Rondônia;TO;+55 38 9 1697 6416;Samoa Americana;SY;"VISA 13 digit
+Ana Lima
+4039744536529 09/34
+CVC: 542
+";3556017237526054;10/31;601;2020-10-10;2003-07-07 21:40:33;2025-07-31
+11;Emanuelly da Rocha;756.938.210-21;tdias@example.com;"Área Rebeca Correia
+Serra Do Curral
+53602092 Dias de Moreira / RS";Vila Bandeirantes;('RN', 'Rio Grande do Norte');Minas Gerais;SC;+55 (62) 92131-6794;Pitcairn;HU;"VISA 16 digit
+Kaique Nogueira
+4582058616470320 05/35
+CVC: 879
+";4762583976210852577;08/29;378;1976-02-21;2023-04-01 03:56:35;2025-07-31
+12;Maria Eduarda Correia;326.419.708-13;sabrina79@example.net;"Área Breno Melo, 951
+Casa Branca
+61112-695 Martins de Minas / PE";Comiteco;('MA', 'Maranhão');Amapá;AL;+55 (17) 9 7333 5679;Navassa Island;GN;"American Express
+Nathan Costela
+373442203998128 06/34
+CID: 1644
+";379656731424653;01/33;070;2015-03-20;1981-09-19 01:52:26;2025-07-31
+13;Júlia Nascimento;780.694.251-30;carvalhovicente@example.com;"Quadra Arthur Ferreira, 1
+Ipe
+09793653 Nascimento / PR";Padre Eustáquio;('RO', 'Rondônia');Sergipe;TO;+55 (039) 92897 0414;São Tomé e Príncipe;GW;"VISA 16 digit
+Pedro Miguel Carvalho
+4425382794023094 05/27
+CVC: 360
+";4406749923739639;01/26;133;2022-05-02;2003-09-10 12:20:15;2025-07-31
+14;Beatriz Cardoso;695.214.830-24;biancacunha@example.org;"Colônia Sales, 4
+Vila Madre Gertrudes 4ª Seção
+06470-556 Rocha / ES";Sion;('PB', 'Paraíba');Espírito Santo;AM;+55 50 9 2965 4638;Tuvalu;MG;"JCB 16 digit
+Alexandre Barros
+3591303395819086 01/33
+CVC: 485
+";4921371654813018395;05/28;184;2012-07-10;2024-10-16 14:58:51;2025-07-31
+15;Luiz Felipe da Rosa;367.891.205-21;yasmin77@example.com;"Pátio Eloah Peixoto, 84
+Comiteco
+22556-658 Azevedo / RN";Nossa Senhora Da Conceição;('AL', 'Alagoas');Ceará;GO;+55 (86) 91745 6046;Jersey;ZM;"JCB 16 digit
+Henrique Farias
+3541651772974770 07/32
+CVC: 809
+";5138545163216821;03/27;681;1970-07-06;2020-07-01 20:27:31;2025-07-31
+16;Maria Luiza Ramos;968.403.715-57;rodriguescarolina@example.org;"Aeroporto Vieira, 73
+Mirante
+59728602 Rocha / MG";Mariano De Abreu;('MT', 'Mato Grosso');Acre;MT;+55 (80) 97183-4189;Jordânia;PL;"JCB 16 digit
+Thales da Conceição
+3554845642715975 10/25
+CVC: 264
+";676186216294;12/29;1825;1983-06-25;2013-09-13 07:58:58;2025-07-31
+17;Dr. Leonardo Costa;428.376.095-10;caldeiraluiz-miguel@example.org;"Trevo Lucas Rezende, 86
+Nova Suíça
+59862-750 Teixeira da Prata / DF";Santa Terezinha;('MS', 'Mato Grosso do Sul');Tocantins;RS;+55 (088) 98852-5167;Turquemenistão;DZ;"JCB 16 digit
+Caroline Souza
+3570833097844904 03/31
+CVC: 015
+";3589548953877959;05/28;426;2005-04-29;1978-12-09 19:29:13;2025-07-31
+18;Clarice da Mata;390.586.241-70;bfreitas@example.net;"Viaduto Nogueira, 90
+Vila Antena Montanhês
+52157730 Mendes / RO";Pindura Saia;('AL', 'Alagoas');Acre;SP;+55 80 92887 0852;Comores;MG;"VISA 13 digit
+Emilly Lopes
+4805577248055 10/27
+CVC: 126
+";2259259468923897;01/26;420;1990-12-05;2023-09-22 16:59:36;2025-07-31
+19;Yasmin Monteiro;437.021.695-80;jesusmariana@example.com;"Pátio da Rosa, 381
+Vila Minaslandia
+05563-739 Souza do Campo / PI";Vila Jardim Leblon;('MT', 'Mato Grosso');Rio Grande do Sul;MG;+55 15 93065 3681;Portugal;BS;"JCB 15 digit
+Ana Costa
+180089603677027 04/29
+CVC: 595
+";6528180036098739;05/32;602;2022-10-15;2016-10-31 21:05:28;2025-07-31
+20;Alice Sales;294.805.317-04;souzaevelyn@example.org;"Recanto Melissa Alves, 641
+Santa Amelia
+63427-385 da Rosa de Silva / MS";Varzea Da Palma;('RN', 'Rio Grande do Norte');Mato Grosso do Sul;MT;+55 (044) 97687-6060;Líbano;ES;"JCB 16 digit
+Davi Lucas da Mata
+3549658300965198 09/28
+CVC: 737
+";180056510727609;10/27;044;2003-09-06;1972-03-05 13:01:33;2025-07-31
+21;Juan Campos;501.384.279-41;dda-mota@example.org;"Via Benício Alves, 49
+Jardim Alvorada
+62585432 Ramos / CE";Castelo;('TO', 'Tocantins');Alagoas;PA;+55 95 9 8769 2981;Costa Rica;CA;"VISA 13 digit
+Ana Júlia da Cruz
+4712549377337 02/28
+CVC: 360
+";38152342878118;03/26;359;2021-07-28;1971-01-28 00:28:11;2025-07-31
+22;Vitor Campos;510.986.247-85;lnogueira@example.org;"Travessa Gabrielly Fogaça
+Dom Bosco
+63396084 Silveira de Cardoso / DF";Vila Copacabana;('CE', 'Ceará');Goiás;SP;+55 (060) 99904-4789;Líbano;KI;"JCB 16 digit
+Ana Luiza Rodrigues
+3544697621011600 07/28
+CVC: 350
+";3593047879881736;02/28;716;1975-08-06;2014-04-17 21:48:28;2025-07-31
+23;Caroline da Rocha;642.531.078-26;luigida-rocha@example.com;"Estação Maysa Nunes, 56
+Marieta 3ª Seção
+76688-460 Moraes de Goiás / RJ";Vila Barragem Santa Lúcia;('MG', 'Minas Gerais');Rio Grande do Norte;DF;+55 (78) 9 0420-3164;Ilhas Marshall;TH;"VISA 16 digit
+Melissa Moraes
+4906925665537689 09/32
+CVC: 831
+";6011103498264106;03/27;717;1989-09-23;1983-07-03 16:08:34;2025-07-31
+24;Luigi Porto;058.617.329-30;pda-rosa@example.com;"Esplanada de Barbosa
+Satelite
+39065-448 Rodrigues da Mata / BA";Boa Esperança;('MG', 'Minas Gerais');Rio de Janeiro;PB;+55 48 94467-2752;Marianas do Norte;PY;"JCB 16 digit
+Milena Souza
+3515517823253609 11/27
+CVC: 805
+";4852616234908204;04/30;946;1993-10-16;2024-09-02 21:38:01;2025-07-31
+25;Lavínia Carvalho;645.830.172-35;rcardoso@example.com;"Núcleo Peixoto, 5
+Vila Nova Gameleira 3ª Seção
+07871016 Azevedo de Ramos / ES";Frei Leopoldo;('SC', 'Santa Catarina');Distrito Federal;AP;+55 (65) 9 3480 3367;Iraque;RW;"VISA 16 digit
+Erick Dias
+4657611012766004 07/28
+CVC: 928
+";4348069666640048;12/26;182;1978-05-14;1976-07-13 13:32:23;2025-07-31
+26;Sra. Ana Clara Oliveira;913.027.684-50;da-costajulia@example.com;"Núcleo de da Cruz
+Santa Maria
+23254232 da Mata / PE";Piraja;('GO', 'Goiás');Sergipe;PR;+55 (028) 95536-3773;Ilhas Turcas e Caicos;RW;"JCB 16 digit
+Kamilly Farias
+3535477620046415 04/26
+CVC: 215
+";180018600854487;05/28;342;1977-06-25;2006-01-30 14:23:19;2025-07-31
+27;Emanuel Correia;523.907.684-74;saleserick@example.net;"Praia de Pires, 67
+Olaria
+23565-494 Moraes da Praia / PB";Vila Vista Alegre;('DF', 'Distrito Federal');Pará;RR;+55 (055) 99886 3677;Camarões;SN;"JCB 16 digit
+Bárbara Rezende
+3573426957373655 08/30
+CVC: 495
+";180053717013230;10/28;795;1999-12-13;1981-05-21 23:32:40;2025-07-31
+28;Maria Julia Nunes;321.940.768-40;maria-fernandarezende@example.net;"Quadra Pinto, 83
+São José
+83470627 Ramos do Norte / CE";Vila São Paulo;('RJ', 'Rio de Janeiro');Ceará;SC;+55 (46) 91322 5115;Jibuti;ZM;"Maestro
+Julia Nunes
+676166172996 10/25
+CVV: 731
+";565655054908;02/30;292;2018-09-23;1998-01-12 18:00:37;2025-07-31
+29;Daniela da Cruz;924.387.605-83;felipeda-rocha@example.com;"Estrada Luigi Nascimento, 67
+Nova Gameleira
+90493256 da Costa / RO";Santana Do Cafezal;('RS', 'Rio Grande do Sul');Rio Grande do Sul;PI;+55 27 95705-6080;Samoa Americana;PT;"JCB 16 digit
+Luana Ferreira
+3539695790769195 05/35
+CVC: 943
+";213146116991385;01/27;093;1987-06-12;2002-10-31 17:35:04;2025-07-31
+30;Sr. Leonardo Santos;602.375.894-00;erickalves@example.net;"Alameda Eduardo Pires, 615
+Salgado Filho
+41337-641 Mendes das Pedras / SP";Floresta;('RR', 'Roraima');Roraima;MT;+55 (45) 9 1606-7684;Mali;NE;"Discover
+Juan Silveira
+6517800506645635 03/32
+CVC: 761
+";3584296284734011;01/29;2854;1979-12-11;1993-01-05 17:22:11;2025-07-31
+31;Sophia Viana;834.026.579-29;smoraes@example.org;"Chácara de Silva, 13
+Fazendinha
+29565-754 Moreira de Minas / SE";Castelo;('RS', 'Rio Grande do Sul');Pernambuco;GO;+55 11 96416 2013;Território Britânico do Oceano Índico;OM;"VISA 19 digit
+João Guilherme Silveira
+4121372629098395631 06/33
+CVC: 913
+";3558169277250018;03/34;541;2011-11-11;2000-08-29 22:42:40;2025-07-31
+32;Sr. Caio Pereira;587.914.260-49;evelyn39@example.org;"Trevo Emanuella da Rocha, 96
+Vila Nova Gameleira 1ª Seção
+07795-077 Cunha / AP";Vila Olhos D'água;('ES', 'Espírito Santo');Goiás;RR;+55 94 9 9705-3011;Wake Island;RU;"Diners Club / Carte Blanche
+Maria Vitória Novaes
+30440225609199 03/34
+CVC: 166
+";349264954789071;07/30;494;2013-11-07;2003-08-04 23:56:11;2025-07-31
+33;Otávio Duarte;103.764.829-31;tramos@example.net;"Campo Emanuelly Gonçalves, 89
+São Pedro
+51600-526 Correia / PI";Baleia;('MS', 'Mato Grosso do Sul');Minas Gerais;DF;+55 (43) 9 0110 9328;Quirguizistão;CF;"Diners Club / Carte Blanche
+Manuela Rodrigues
+30015740454485 07/27
+CVC: 840
+";3557880038530974;08/31;352;2006-04-28;1982-10-03 19:04:33;2025-07-31
+34;Lívia Costela;073.649.512-61;kfogaca@example.com;"Viaduto de Monteiro, 78
+Parque São Pedro
+52953539 Barbosa de da Luz / PR";Vila São Geraldo;('PR', 'Paraná');Acre;RR;+55 (042) 92654 1089;Geórgia do Sul e Sandwich do Sul;CY;"Maestro
+Pietra Pires
+576300795324 11/25
+CVV: 081
+";4279799525634200585;10/25;8078;1986-02-01;1983-01-22 07:48:42;2025-07-31
+35;Rodrigo Gomes;401.937.582-88;fogacacaua@example.com;"Condomínio Nascimento, 34
+Novo Aarão Reis
+03344422 Monteiro / ES";Boa Esperança;('RO', 'Rondônia');Mato Grosso do Sul;RJ;+55 (29) 91359-9075;Albânia;LU;"Diners Club / Carte Blanche
+Maria Luiza Cavalcanti
+30116205790288 03/32
+CVC: 542
+";575850463051;03/27;303;1992-09-10;2004-02-08 15:31:40;2025-07-31
+36;João Felipe Ferreira;025.796.438-00;da-motaluiz-miguel@example.net;"Chácara da Conceição, 29
+Ápia
+03317083 Fogaça / BA";Bandeirantes;('DF', 'Distrito Federal');Rio de Janeiro;GO;+55 56 90277-1271;Man, Isle of;CY;"VISA 16 digit
+Luigi Freitas
+4563995672811298 06/31
+CVC: 942
+";4473678447676852;02/27;471;2009-05-07;2005-05-08 07:41:51;2025-07-31
+37;Amanda Rezende;859.701.364-84;da-rosasofia@example.com;"Alameda Barros
+Guaratã
+68874803 Pires / RS";Beija Flor;('AL', 'Alagoas');Rio de Janeiro;AL;+55 (84) 93945 2589;Brasil;UY;"Mastercard
+Benício Duarte
+2245393208832048 11/32
+CVV: 017
+";30193356304599;10/34;570;1977-10-29;2008-05-04 05:01:19;2025-07-31
+38;Rodrigo Costela;836.409.572-29;da-rochamurilo@example.com;"Trevo Ramos, 94
+Planalto
+67136249 Mendes de Goiás / PI";Santa Rosa;('CE', 'Ceará');Roraima;CE;+55 (22) 99591-0718;Estados Unidos;NZ;"Discover
+Rafael Lima
+6011911328106275 09/31
+CVC: 510
+";3599124004640164;04/29;2093;1982-12-30;1978-05-05 20:19:37;2025-07-31
+39;Dra. Lara da Cruz;124.738.509-41;pietro91@example.com;"Condomínio de Pinto, 90
+Marieta 3ª Seção
+71474-000 Teixeira da Praia / MT";Jardim Guanabara;('RS', 'Rio Grande do Sul');Paraná;PA;+55 76 92856 3001;Áustria;EE;"JCB 15 digit
+Maria Luiza Dias
+213118748425033 08/27
+CVC: 584
+";180077312395403;12/29;465;1994-05-21;1978-05-09 11:42:05;2025-07-31
+40;Leandro da Mata;485.073.926-10;enzo-gabriel45@example.net;"Aeroporto Lorenzo Porto, 17
+Concórdia
+46167886 Ribeiro das Pedras / PI";Guarani;('PA', 'Pará');Rio Grande do Norte;RR;+55 (28) 9 4501-9964;Japão;LS;"Discover
+João Gabriel Caldeira
+6510741175787729 11/29
+CVC: 143
+";3510107281584607;10/30;810;1975-03-05;1981-09-19 15:54:24;2025-07-31
+41;Dr. Lucas Gabriel Mendes;597.486.321-64;bda-rocha@example.org;"Praia de Nascimento, 38
+Varzea Da Palma
+90207889 Ferreira / PI";Bonfim;('CE', 'Ceará');Mato Grosso;DF;+55 (56) 95555-8657;Filipinas;IN;"VISA 13 digit
+Gabriela Moraes
+4880697578020 05/34
+CVC: 447
+";4748520476920;06/33;487;2000-12-08;1979-07-21 13:26:13;2025-07-31
+42;Letícia Duarte;921.356.804-51;sofiada-cruz@example.net;"Sítio Pereira, 14
+Itaipu
+88893601 Fernandes de Minas / RS";Céu Azul;('MG', 'Minas Gerais');Ceará;RN;+55 (092) 95038-2321;Venezuela;MZ;"JCB 16 digit
+Giovanna da Costa
+3548406439484702 07/35
+CVC: 068
+";213167741290233;01/30;772;1998-10-15;2000-04-05 15:53:19;2025-07-31
+43;Fernando Silva;376.195.804-84;jdas-neves@example.net;"Feira Carvalho
+Floramar
+90883-064 Cardoso / PE";Vila Puc;('DF', 'Distrito Federal');São Paulo;RN;+55 96 9 1694 1817;Luxemburgo;DE;"Mastercard
+Benjamin da Mata
+5203254253424805 07/32
+CVV: 796
+";6011769437139235;11/25;429;1990-09-15;2018-04-06 04:16:06;2025-07-31
+44;Juan Gomes;295.780.634-74;smonteiro@example.com;"Condomínio Aragão, 16
+Horto
+50038-768 Moreira / SC";Belvedere;('AC', 'Acre');Bahia;PI;+55 (42) 94444-6007;Chade;IL;"JCB 15 digit
+Sophie Freitas
+213121163812156 02/30
+CVC: 136
+";213120759714420;03/30;073;1989-05-31;2005-05-18 14:15:30;2025-07-31
+45;Levi Correia;732.164.509-61;cardosonicole@example.net;"Esplanada Ian da Luz, 12
+Solimoes
+18328462 da Conceição do Galho / RJ";Urca;('PE', 'Pernambuco');Maranhão;ES;+55 (60) 94504-0504;Costa Rica;IT;"VISA 16 digit
+Isadora Martins
+4584512174498808 08/26
+CVC: 911
+";4565426762063912579;05/32;2573;1998-05-06;1977-10-13 01:42:33;2025-07-31
+46;Letícia Novaes;806.947.135-20;bviana@example.com;"Conjunto Luiz Gustavo Mendes
+São Damião
+98025-464 Souza / RS";Ipiranga;('RN', 'Rio Grande do Norte');Rio Grande do Norte;PR;+55 (37) 93333 5935;Letônia;SZ;"JCB 16 digit
+Emanuella da Mota
+3500026178196931 07/26
+CVC: 148
+";36027492709606;07/29;286;2020-05-29;1974-01-14 07:38:14;2025-07-31
+47;Leonardo Costa;438.102.596-24;elisaaragao@example.org;"Parque da Paz, 4
+Beija Flor
+51389-173 Sales da Praia / PI";Cônego Pinheiro 2ª Seção;('PB', 'Paraíba');Santa Catarina;RN;+55 (31) 98197-8352;Panamá;MK;"Discover
+Pietro Porto
+6011211335001514 04/31
+CVC: 829
+";374283103151932;07/29;983;2021-02-04;1999-08-03 16:14:31;2025-07-31
+48;Ana Clara Souza;820.695.714-67;valentinateixeira@example.com;"Conjunto Noah Farias, 5
+Teixeira Dias
+68751-162 da Conceição / DF";Itatiaia;('PE', 'Pernambuco');Goiás;SC;+55 (99) 9 2470 1761;Ilhas Caiman;TR;"VISA 16 digit
+Ana Júlia Freitas
+4266097785188811 01/35
+CVC: 582
+";3564748041810223;03/27;364;1992-12-30;1994-05-21 13:54:49;2025-07-31
+49;Srta. Ana Vitória Barbosa;690.837.145-00;pintovalentina@example.com;"Favela Luiz Miguel Mendes, 457
+Vila Dos Anjos
+71729-469 da Mota / SE";Suzana;('AL', 'Alagoas');Santa Catarina;AP;+55 (20) 99666 6920;Sara Ocidental;MR;"VISA 16 digit
+Marcos Vinicius Ramos
+4702649948156952 07/33
+CVC: 798
+";3516314723202749;08/30;7834;2006-06-27;2020-01-10 06:08:22;2025-07-31
+50;Thomas Rodrigues;135.629.478-28;isaac98@example.org;"Fazenda de Oliveira, 17
+Horto
+17754-389 Fogaça de Monteiro / AL";Nova Pampulha;('RS', 'Rio Grande do Sul');Goiás;SP;+55 (23) 95937 3074;Paquistão;WS;"VISA 19 digit
+Carolina Lima
+4000683515378076639 06/33
+CVC: 204
+";6011159222019737;12/30;969;2016-02-20;1977-07-23 09:10:32;2025-07-31
+51;Augusto Ribeiro;683.901.547-57;nascimentoalexandre@example.org;"Chácara Lorenzo da Conceição, 57
+Conjunto Minas Caixa
+59632026 Pires / CE";Jardim Dos Comerciarios;('CE', 'Ceará');Goiás;PR;+55 (90) 9 2801 3075;Benim;YE;"Mastercard
+Luana Porto
+2230382155172398 05/29
+CVV: 275
+";4806619556324151455;06/34;536;2014-03-23;1976-01-26 23:58:56;2025-07-31
+52;Erick Sales;526.748.019-30;pereiracaue@example.net;"Via Isadora Aragão
+Cidade Nova
+68346-187 Pereira de Moura / MA";Vila Minaslandia;('AC', 'Acre');Mato Grosso;TO;+55 (13) 9 9730 6148;Chipre;GQ;"VISA 13 digit
+Alana da Cruz
+4299575346501 08/30
+CVC: 384
+";30111570023118;06/33;356;2019-04-04;2021-06-23 17:49:45;2025-07-31
+53;Ana Vitória Silveira;762.309.418-13;aoliveira@example.com;"Recanto de Ferreira, 26
+Eymard
+15713-990 Rezende / RJ";Vila Madre Gertrudes 1ª Seção;('SP', 'São Paulo');Rio Grande do Norte;PR;+55 (29) 95199-5681;Ilhas Marshall;FR;"VISA 19 digit
+Gabriela Porto
+4932060210399131368 11/27
+CVC: 435
+";213167405701004;07/35;044;2022-12-07;1975-07-09 07:50:59;2025-07-31
+54;Maria Cecília Ribeiro;149.876.235-28;igor21@example.net;"Colônia da Cruz, 557
+Vila Ecológica
+74323320 Teixeira da Mata / ES";São Cristóvão;('MS', 'Mato Grosso do Sul');Acre;ES;+55 (09) 99900 1428;Ashmore and Cartier Islands;AL;"Diners Club / Carte Blanche
+Luiz Otávio Pinto
+38578203036711 03/34
+CVC: 897
+";3554592138726898;01/31;160;2010-03-22;2006-05-18 07:35:36;2025-07-31
+55;Srta. Pietra Correia;193.874.026-22;eduardoribeiro@example.net;"Viela Cardoso, 2
+Vila Santa Monica 1ª Seção
+85675-484 Oliveira de Costa / PE";Novo Ouro Preto;('MG', 'Minas Gerais');Roraima;PR;+55 (67) 94008 0315;Guatemala;JM;"Discover
+Juan Oliveira
+6011975655726641 05/28
+CVC: 874
+";4735188768805;04/35;977;1972-09-03;1996-06-06 07:13:06;2025-07-31
+56;Thomas da Mata;609.182.347-78;saleslara@example.com;"Fazenda Costela
+Jardim América
+81081-844 Fogaça / DF";Virgínia;('PA', 'Pará');Pará;ES;+55 43 98048-1925;Guiné-Bissau;LK;"American Express
+Paulo Novaes
+348859656825056 07/34
+CID: 5741
+";3534733392437088;09/34;297;2025-03-30;2016-05-12 19:41:52;2025-07-31
+57;Beatriz Costela;564.178.392-73;livia74@example.com;"Vale de Correia, 518
+Vila Sesc
+42084-397 Alves / RR";Outro;('RR', 'Roraima');Rondônia;PE;+55 (73) 95008-2197;Albânia;ZM;"JCB 16 digit
+Luiz Henrique Fogaça
+3574683243572925 03/31
+CVC: 767
+";3520023501840331;03/29;241;2022-02-20;2012-12-14 00:27:58;2025-07-31
+58;Maria Vitória Silva;695.384.712-37;marcelalopes@example.com;"Chácara de da Mata, 59
+Lagoinha
+53302-677 Araújo do Amparo / PR";Leonina;('GO', 'Goiás');São Paulo;AM;+55 (73) 96933 7489;Malávi;ES;"Diners Club / Carte Blanche
+Carolina Nunes
+30169277401961 12/32
+CVC: 996
+";38662576674876;01/32;187;1985-07-22;2005-09-19 22:29:42;2025-07-31
+59;Bernardo Melo;357.096.481-75;maria-sophiacostela@example.com;"Colônia Levi Ferreira, 172
+São Vicente
+20794982 Sales / RR";Vila São Gabriel;('BA', 'Bahia');Roraima;MA;+55 (97) 92120 4550;Monserrate;HN;"JCB 16 digit
+Emanuelly da Paz
+3577956813810876 11/29
+CVC: 739
+";3528028446645580;11/25;197;2002-05-17;2011-03-02 01:55:51;2025-07-31
+60;Dra. Rafaela Freitas;928.156.037-21;juliacavalcanti@example.com;"Fazenda Pinto, 7
+Vila Da Ária
+72503-081 Cunha de Cavalcanti / RJ";Olhos D'água;('RS', 'Rio Grande do Sul');Pará;RJ;+55 (95) 98453-2664;Salvador;GW;"Discover
+Carolina Nunes
+6577810861053512 11/27
+CVC: 556
+";4533640289019;12/29;052;2006-10-30;2010-03-21 20:08:55;2025-07-31
+61;Camila Peixoto;392.607.485-00;urocha@example.org;"Núcleo de da Luz, 846
+Vila Nova Paraíso
+72046051 Almeida do Amparo / SE";Alto Dos Pinheiros;('AM', 'Amazonas');Rio Grande do Norte;MA;+55 (26) 93716 7070;Antártica;BG;"Discover
+Yago Santos
+6531704190328346 05/34
+CVC: 065
+";3599949928639177;09/32;412;2024-05-26;2014-02-04 22:02:22;2025-07-31
+62;Danilo Fogaça;490.576.213-80;djesus@example.net;"Trecho Castro, 46
+Coração De Jesus
+57704-233 Teixeira / MT";Vila Suzana Segunda Seção;('PE', 'Pernambuco');Goiás;SC;+55 94 96344-4488;Burundi;NG;"JCB 15 digit
+Nicolas Silveira
+213191233237437 11/25
+CVC: 715
+";676264471860;09/27;972;1973-10-07;1971-03-28 08:29:23;2025-07-31
+63;Leandro Almeida;910.362.587-77;theofernandes@example.com;"Passarela Pires, 66
+Vila Madre Gertrudes 2ª Seção
+12196599 Rezende / BA";Serrano;('MA', 'Maranhão');Sergipe;RJ;+55 (85) 90126 4869;Índia;EG;"JCB 16 digit
+Bryan Costela
+3528806731763295 07/35
+CVC: 332
+";4943995492041801476;03/28;079;1984-12-31;1996-08-22 02:12:51;2025-07-31
+64;Kevin Mendes;245.310.976-61;mda-cunha@example.com;"Praça Otávio Aragão
+São Francisco
+24993558 Lima / AP";Pindura Saia;('PR', 'Paraná');São Paulo;AL;+55 (95) 9 0997 7983;Coreia do Sul;NA;"JCB 15 digit
+Ana Lívia Barros
+180016812334918 07/27
+CVC: 056
+";2703347583507380;10/32;525;1988-09-28;1990-03-30 02:36:33;2025-07-31
+65;Luna Peixoto;947.612.850-01;fernandesgabriela@example.net;"Lago de Ramos, 29
+Nossa Senhora Da Aparecida
+59153168 Monteiro de Castro / AM";Vila Nova Gameleira 2ª Seção;('PI', 'Piauí');Alagoas;PB;+55 67 9 0706 2183;Coreia do Norte;RS;"Mastercard
+Stephany Rocha
+2266982666856434 05/31
+CVV: 693
+";4195033644260089438;04/34;472;1970-02-20;1979-11-01 01:44:55;2025-07-31
+66;Otávio Melo;560.492.138-60;da-luzcecilia@example.com;"Via de Porto, 775
+Paulo Vi
+63962140 Rezende da Prata / SC";Barão Homem De Melo 2ª Seção;('AM', 'Amazonas');Roraima;MG;+55 (51) 9 4956-6104;Benim;PH;"JCB 16 digit
+Isis Teixeira
+3574356528873686 05/32
+CVC: 036
+";4072107246793679255;10/27;725;2017-03-02;1985-02-04 13:41:42;2025-07-31
+67;Benjamin da Paz;437.092.561-43;da-cunhabrenda@example.org;"Travessa da Luz, 49
+Ápia
+36757-206 Souza das Pedras / RS";Marieta 2ª Seção;('TO', 'Tocantins');Rondônia;RS;+55 (032) 90943-2190;Paquistão;UZ;"JCB 15 digit
+Enrico Araújo
+180051257710983 04/31
+CVC: 511
+";3526222268711347;02/30;137;1999-10-14;2014-09-28 03:47:22;2025-07-31
+68;Carlos Eduardo Pires;892.461.750-85;luna16@example.net;"Passarela Maria Vitória Ribeiro, 14
+Maria Goretti
+02933557 Barbosa do Oeste / RJ";Bairro Das Indústrias Ii;('GO', 'Goiás');Mato Grosso do Sul;MS;+55 74 9 4328-6608;Quênia;BE;"Mastercard
+Luiza Pereira
+2222109807346405 01/30
+CVV: 602
+";6534193598964984;02/32;797;1990-05-16;1996-03-01 03:43:42;2025-07-31
+69;Sra. Lavínia Pires;061.345.827-35;agatha06@example.org;"Trecho Samuel Pinto
+Brasil Industrial
+06663305 Peixoto / AP";Vila Maloca;('DF', 'Distrito Federal');Rio Grande do Norte;GO;+55 (09) 9 3144 2479;Geórgia do Sul e Sandwich do Sul;BA;"Diners Club / Carte Blanche
+Luiz Felipe Sales
+30314296029605 01/32
+CVC: 896
+";4060589835867;02/29;8423;2009-06-16;1993-03-17 09:09:48;2025-07-31
+70;Thales Freitas;012.683.594-24;imendes@example.net;"Colônia Elisa Pires, 93
+Granja De Freitas
+78311-163 das Neves das Pedras / MG";Aeroporto;('RR', 'Roraima');Alagoas;AM;+55 79 9 2172 4380;Cuba;IE;"VISA 16 digit
+Emanuella Lopes
+4549082420142729 06/27
+CVC: 420
+";5210865886342469;01/27;386;2008-11-03;1999-10-25 04:29:17;2025-07-31
+71;Alícia Rocha;581.623.970-86;cdias@example.com;"Praia Stella Campos, 99
+Pongelupe
+92667-694 Peixoto / SE";Miramar;('RS', 'Rio Grande do Sul');Maranhão;AP;+55 (03) 95420 3835;Nicarágua;IQ;"VISA 16 digit
+Thales Lopes
+4598138469168502 02/34
+CVC: 642
+";3522988646881358;10/31;234;2009-01-13;1995-01-31 01:03:56;2025-07-31
+72;Sra. Isis Farias;735.694.208-92;da-luzjoaquim@example.com;"Vila Rezende, 22
+Monte Azul
+19371-026 Moraes da Mata / MT";Vila Nova Dos Milionarios;('SC', 'Santa Catarina');Santa Catarina;PB;+55 40 9 0539-7888;Samoa;UA;"JCB 16 digit
+Thales Rezende
+3599418257001664 03/31
+CVC: 614
+";6011636081988490;01/33;395;2022-06-29;2000-06-26 07:28:28;2025-07-31
+73;Rebeca Gomes;853.679.024-56;mvieira@example.org;"Setor Ana Julia Santos, 7
+São Bernardo
+65907360 Campos de Azevedo / PE";Novo Aarão Reis;('AL', 'Alagoas');Piauí;MS;+55 18 9 1998-8385;Território Britânico do Oceano Índico;GM;"Diners Club / Carte Blanche
+Letícia Duarte
+30389550728381 08/29
+CVC: 806
+";2259648153902457;04/29;757;1992-01-08;2006-12-13 16:07:43;2025-07-31
+74;Ana Carolina Correia;351.076.942-25;yasminfreitas@example.org;"Campo Marina Oliveira, 6
+Santa Efigênia
+38988952 Moura do Oeste / AL";Esplanada;('SE', 'Sergipe');Maranhão;MG;+55 (046) 91700 0780;Croácia;GD;"Mastercard
+Clarice Peixoto
+2464411632999516 07/30
+CVV: 818
+";3548955104421175;11/32;379;1993-01-18;2004-12-05 19:22:53;2025-07-31
+75;Davi Lucca Cavalcanti;572.190.864-58;xcaldeira@example.com;"Estação de Pereira, 15
+Belmonte
+34533-155 Novaes / PA";Nossa Senhora Do Rosário;('CE', 'Ceará');Amapá;PE;+55 (40) 94325-4762;Equador;PS;"JCB 16 digit
+Bernardo Rezende
+3548560888825615 06/35
+CVC: 153
+";4176288008465339471;08/32;557;1982-03-05;2015-03-31 11:06:56;2025-07-31
+76;Ana Laura Costela;168.972.450-11;henriquemendes@example.com;"Viaduto Moraes
+Biquinhas
+57572599 Ramos / ES";Xodo-Marize;('AL', 'Alagoas');Roraima;PI;+55 (99) 9 1391 1618;Irlanda;DK;"American Express
+Emilly Alves
+371887224731233 01/34
+CID: 9461
+";36322492059593;07/28;6566;2014-04-07;1991-04-28 09:46:05;2025-07-31
+77;Arthur da Conceição;205.498.716-67;fernanda62@example.net;"Praça Ana Julia da Cunha, 2
+Vila Paris
+97930-524 da Mota das Flores / DF";Bela Vitoria;('MT', 'Mato Grosso');Piauí;RN;+55 (022) 93114-9385;Costa Rica;IT;"JCB 15 digit
+Cauã Correia
+213199549509993 11/30
+CVC: 689
+";2260146449328451;06/27;433;1997-08-29;1988-01-19 17:53:40;2025-07-31
+78;Luigi Cardoso;813.250.796-77;oda-rocha@example.com;"Conjunto Raul Campos, 89
+Venda Nova
+57901-559 Farias / AP";Vera Cruz;('ES', 'Espírito Santo');Roraima;PA;+55 (067) 98275-6043;Tanzânia;HT;"JCB 16 digit
+Esther Rocha
+3584058105026187 02/28
+CVC: 869
+";3545181105746295;11/27;990;1994-11-17;1995-04-18 23:27:28;2025-07-31
+79;Julia Vieira;178.692.503-68;rebeca00@example.org;"Passarela de Pinto, 50
+Baleia
+93002846 Silveira / ES";Cdi Jatoba;('PR', 'Paraná');Rio Grande do Norte;MS;+55 (11) 9 1807-7181;Catar;IN;"Diners Club / Carte Blanche
+Raquel Melo
+38342996123743 10/31
+CVC: 187
+";3567992377805293;12/28;589;2014-06-25;1972-12-14 06:46:48;2025-07-31
+80;Luiz Gustavo Rocha;735.290.146-99;ugoncalves@example.org;"Praça de Ferreira, 724
+Castelo
+12898-067 Vieira / DF";Nazare;('MA', 'Maranhão');Rio de Janeiro;MG;+55 57 9 6858 5926;Cazaquistão;KI;"VISA 16 digit
+Bárbara Oliveira
+4721560439236764 12/28
+CVC: 301
+";4131117773156140700;12/25;233;2005-12-20;1980-07-08 12:41:26;2025-07-31
+81;Olivia Santos;975.082.316-86;carolina12@example.net;"Lago Ana da Luz, 988
+Indaiá
+67754248 Pinto do Campo / AL";Vila Nossa Senhora Do Rosário;('SP', 'São Paulo');Amazonas;CE;+55 (43) 96691 2453;Albânia;BI;"VISA 16 digit
+Marcos Vinicius Costela
+4155967327140302 08/30
+CVC: 845
+";4424189169859429;03/26;916;1971-01-27;1980-01-21 01:08:46;2025-07-31
+82;Dr. Leandro Ribeiro;367.289.105-30;maria-luizaramos@example.net;"Parque de Teixeira, 73
+Vila Aeroporto
+05911-435 Novaes da Mata / SP";Itapoa;('RS', 'Rio Grande do Sul');Minas Gerais;PA;+55 (02) 9 7483-9490;Andorra;VE;"American Express
+Yuri Souza
+373158758622612 10/28
+CID: 7450
+";6011280042097453;02/32;671;2020-02-11;1971-02-03 12:59:47;2025-07-31
+83;Nina Fogaça;134.825.079-88;moreirasabrina@example.net;"Pátio da Cunha, 616
+Estoril
+90752-550 Gomes de Goiás / AM";Vila Bandeirantes;('ES', 'Espírito Santo');Pernambuco;MG;+55 (000) 98771 9648;Geórgia do Sul e Sandwich do Sul;FJ;"VISA 19 digit
+Brenda Lopes
+4354124339227295250 02/30
+CVC: 529
+";2720266375998913;03/35;817;2017-07-04;2011-12-26 04:09:22;2025-07-31
+84;Maria Eduarda da Cruz;259.641.738-37;emanuellada-paz@example.net;"Loteamento Eloah Sales, 778
+Santo André
+82632-896 Pinto / SP";São Vicente;('PA', 'Pará');Goiás;SE;+55 (55) 97873-0098;República Centro-Africana;AG;"Mastercard
+Ana Carolina Fogaça
+2515184027228135 11/31
+CVV: 166
+";675904118774;02/30;633;2007-06-28;1970-01-06 13:41:18;2025-07-31
+85;Ana Carolina Novaes;097.613.845-00;ana-claragoncalves@example.org;"Travessa Emanuelly Peixoto, 557
+Nazare
+63199233 Nogueira do Campo / AL";Solar Do Barreiro;('MG', 'Minas Gerais');Bahia;ES;+55 (71) 9 3207-2542;Kuwait;CY;"JCB 16 digit
+Ana Beatriz Jesus
+3523403857927329 02/31
+CVC: 706
+";2297681272116125;06/32;068;1988-09-15;1995-08-25 17:07:01;2025-07-31
+86;Sofia Moura;680.352.147-80;andre88@example.com;"Colônia de Barros, 11
+Prado
+34996872 Duarte / AL";Vila Inestan;('PI', 'Piauí');Sergipe;RS;+55 (029) 97883 9448;Moçambique;FJ;"Mastercard
+Levi Almeida
+2281299240945182 02/34
+CVV: 882
+";372516578877693;01/30;497;1988-12-13;2019-10-11 11:20:59;2025-07-31
+87;Julia Freitas;317.948.652-09;rezendemariane@example.net;"Largo de Ramos, 57
+Caiçara - Adelaide
+25859-632 Ramos da Prata / MG";Xangri-Lá;('PE', 'Pernambuco');Roraima;GO;+55 78 99587 2920;Letônia;UY;"JCB 16 digit
+Thiago Gonçalves
+3586415348309770 06/29
+CVC: 441
+";3508573878236345;07/26;850;2014-04-29;1984-04-30 12:03:48;2025-07-31
+88;Dr. Isaac Pinto;564.213.098-60;oliveirafelipe@example.org;"Feira de Rocha, 45
+São Jorge 1ª Seção
+89314922 da Cruz do Oeste / AP";Maria Virgínia;('MA', 'Maranhão');Amapá;MS;+55 55 97895-4977;Etiópia;LA;"JCB 16 digit
+Samuel da Paz
+3574165797123271 01/34
+CVC: 671
+";4113516026782533;01/28;625;1975-05-27;1986-06-26 21:35:20;2025-07-31
+89;Vinicius Monteiro;672.859.410-85;diassamuel@example.org;"Condomínio de Teixeira, 924
+Andiroba
+11454705 da Paz de Cardoso / RO";Pirineus;('SP', 'São Paulo');Amazonas;MS;+55 (78) 91484-6657;Cabo Verde;SE;"VISA 16 digit
+Olivia Cardoso
+4569931102007201 08/33
+CVC: 955
+";4803314422576828164;05/28;452;1970-06-15;2007-07-24 19:36:05;2025-07-31
+90;Augusto Dias;978.320.416-50;moraestheo@example.org;"Ladeira Ramos, 10
+Varzea Da Palma
+60525193 Porto da Mata / SP";Sion;('SP', 'São Paulo');Minas Gerais;RS;+55 62 92805 3406;Maldivas;MW;"VISA 13 digit
+André Araújo
+4460440784900 04/29
+CVC: 411
+";3598131101557218;12/25;260;2002-09-16;2023-05-22 15:57:30;2025-07-31
+91;Lavínia Monteiro;962.178.503-03;kramos@example.net;"Travessa de Oliveira, 980
+Bandeirantes
+64720-367 Freitas dos Dourados / MA";Cidade Nova;('AM', 'Amazonas');Mato Grosso;AP;+55 (84) 90076-2324;Costa do Marfim;MV;"JCB 16 digit
+Laís Oliveira
+3548991517169689 04/32
+CVC: 230
+";4038027945803;01/31;668;1976-04-15;2018-11-06 09:42:28;2025-07-31
+92;Caio Moreira;941.586.723-09;theo30@example.com;"Parque Monteiro, 28
+Vila Madre Gertrudes 2ª Seção
+39641-216 Cunha de Ramos / RN";Rio Branco;('RR', 'Roraima');Roraima;SP;+55 (32) 99193 9895;Uruguai;PK;"Maestro
+Emanuella Duarte
+630443261379 08/28
+CVV: 233
+";30599829852214;08/29;378;1978-02-01;2014-09-01 23:18:01;2025-07-31
+93;Dra. Sophia Farias;865.917.403-84;acaldeira@example.org;"Rodovia Nina Azevedo, 32
+Santa Terezinha
+68498549 Monteiro / MG";Cônego Pinheiro 1ª Seção;('SC', 'Santa Catarina');Rio Grande do Sul;PE;+55 57 9 6388-6000;Senegal;TH;"Mastercard
+Clara da Luz
+2660026328633955 01/33
+CVV: 861
+";346061424174329;06/31;8808;2022-02-16;2020-10-08 00:06:51;2025-07-31
+94;Ana Beatriz Farias;317.849.520-79;pedrorodrigues@example.com;"Passarela Olivia Silva, 9
+Trevo
+37035-500 Lopes de Goiás / RJ";Barroca;('RS', 'Rio Grande do Sul');Sergipe;AC;+55 (98) 9 0370-0777;Paquistão;CF;"Maestro
+Isis Cardoso
+630466589482 08/30
+CVV: 306
+";3509633436053142;08/25;211;2023-03-16;1977-11-23 05:51:56;2025-07-31
+95;Gustavo Santos;258.639.014-89;davi-luiz43@example.net;"Aeroporto Julia Moraes, 3
+Lajedo
+60230-275 Rodrigues da Prata / PE";Chácara Leonina;('PE', 'Pernambuco');Goiás;PB;+55 (096) 96296-7987;Território Britânico do Oceano Índico;CL;"VISA 16 digit
+Kaique Aragão
+4367904014717872 11/31
+CVC: 826
+";502019285613;02/27;516;2011-11-21;2022-11-24 09:35:21;2025-07-31
+96;Vitor Nascimento;182.703.456-44;wpires@example.org;"Vila da Cruz
+Madre Gertrudes
+55211153 Costela / RO";Vila Copasa;('PI', 'Piauí');São Paulo;RJ;+55 78 91888 4887;Libéria;LC;"VISA 16 digit
+Alícia Moura
+4552610897926697 09/27
+CVC: 026
+";583552424835;04/35;460;2022-02-01;1984-01-12 22:13:38;2025-07-31
+97;Davi Pereira;584.321.907-05;mirella46@example.net;"Distrito de Monteiro
+Vila Calafate
+56220-964 Almeida da Mata / MS";Vila Santo Antônio;('MG', 'Minas Gerais');Pernambuco;DF;+55 (93) 9 1290-6470;Anguila;AO;"VISA 13 digit
+Emanuelly Costela
+4835799111617 08/27
+CVC: 835
+";30473427477347;01/29;683;1975-02-10;1983-08-17 14:51:58;2025-07-31
+98;Bruno Costa;684.953.712-19;enzo-gabrielduarte@example.org;"Residencial de Gomes, 5
+Conjunto Serra Verde
+80944-130 Peixoto / MA";Vila Madre Gertrudes 4ª Seção;('SP', 'São Paulo');Sergipe;RS;+55 00 91535 2283;Pitcairn;BZ;"Discover
+Isaac Gomes
+6541234736218775 10/33
+CVC: 297
+";4923148548265175;09/27;214;2006-10-10;1977-07-17 07:58:11;2025-07-31
+99;Murilo Melo;963.870.415-20;da-rosanina@example.com;"Condomínio de Aragão, 5
+Ouro Preto
+79602-120 Carvalho / MS";Nossa Senhora De Fátima;('MS', 'Mato Grosso do Sul');Sergipe;GO;+55 (007) 97409 2930;Andorra;CV;"Diners Club / Carte Blanche
+Davi Luiz Novaes
+30515878103630 09/32
+CVC: 627
+";3528910338170241;11/27;483;2000-09-25;2009-10-02 17:22:58;2025-07-31
